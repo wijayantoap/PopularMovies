@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="pop_movie">Most Popular</string>
+
+    <string name="top_movie">Top Rated</string>
+
+    <string name="title">Title</string>
+
+    <string name="rating">Rating</string>
+
+    <string name="rating_num">This is rating</string>
+
+    <string name="release_date">Release Date</string>
+
+    <string name="release_date_time">This is release date</string>
+
+    <string name="synopsis">This is synopsis</string>
+
+    <string name="reviews">Reviews</string>
+
+    <string name="trailer">Trailers</string>
+
+    <string name="favourite">Favourite</string>
+
+    <string name="fav_error">Error</string>
+
+
+    <string name="un_fav">Nay</string>
+
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- layout -->
+    <dimen name="width_185">185dp</dimen>
+    <dimen name="height_100">100dp</dimen>
+    <dimen name="height_280">280dp</dimen>
+
+    <!-- margin -->
+    <dimen name="margin_1">1dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+
+    <!-- textsize -->
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_26">26sp</dimen>
+
+    <!-- padding -->
+    <dimen name="pad_10">10dp</dimen>
+    <dimen name="pad_20">20dp</dimen>
+
+    <dimen name="size0">0dp</dimen>
+    <dimen name="size2">2dp</dimen>
+    <dimen name="size5">5dp</dimen>
+    <dimen name="size20">20dp</dimen>
+    <dimen name="size50">50dp</dimen>
+
+</resources>
